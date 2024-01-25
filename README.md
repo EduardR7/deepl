@@ -1,2 +1,2 @@
-# DLS
-Ноутбуки с курса DLS
+# Deep learning
+Deep learning
